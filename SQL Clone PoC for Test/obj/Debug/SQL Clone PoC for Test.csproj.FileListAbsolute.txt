@@ -1,0 +1,32 @@
+C:\Dev\Visual Studio\SQL Clone PoC for Test\SQL Clone PoC for Test\bin\Debug\SQL Clone PoC for Test.exe.config
+C:\Dev\Visual Studio\SQL Clone PoC for Test\SQL Clone PoC for Test\bin\Debug\SQL Clone PoC for Test.exe
+C:\Dev\Visual Studio\SQL Clone PoC for Test\SQL Clone PoC for Test\bin\Debug\SQL Clone PoC for Test.pdb
+C:\Dev\Visual Studio\SQL Clone PoC for Test\SQL Clone PoC for Test\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\Visual Studio\SQL Clone PoC for Test\SQL Clone PoC for Test\bin\Debug\RedGate.SqlClone.Api.dll
+C:\Dev\Visual Studio\SQL Clone PoC for Test\SQL Clone PoC for Test\bin\Debug\RedGate.SqlClone.Client.Api.dll
+C:\Dev\Visual Studio\SQL Clone PoC for Test\SQL Clone PoC for Test\bin\Debug\RedGate.SqlClone.Common.dll
+C:\Dev\Visual Studio\SQL Clone PoC for Test\SQL Clone PoC for Test\bin\Debug\RedGate.SqlClone.Http.ClientModels.dll
+C:\Dev\Visual Studio\SQL Clone PoC for Test\SQL Clone PoC for Test\bin\Debug\RedGate.SqlClone.Http.Model.dll
+C:\Dev\Visual Studio\SQL Clone PoC for Test\SQL Clone PoC for Test\bin\Debug\RedGate.SqlClone.Serialization.dll
+C:\Dev\Visual Studio\SQL Clone PoC for Test\SQL Clone PoC for Test\bin\Debug\System.Net.Http.Formatting.dll
+C:\Dev\Visual Studio\SQL Clone PoC for Test\SQL Clone PoC for Test\bin\Debug\Newtonsoft.Json.xml
+C:\Dev\Visual Studio\SQL Clone PoC for Test\SQL Clone PoC for Test\bin\Debug\System.Net.Http.Formatting.xml
+C:\Dev\Visual Studio\SQL Clone PoC for Test\SQL Clone PoC for Test\obj\Debug\SQL Clone PoC for Test.csprojResolveAssemblyReference.cache
+C:\Dev\Visual Studio\SQL Clone PoC for Test\SQL Clone PoC for Test\obj\Debug\SQL Clone PoC for Test.exe
+C:\Dev\Visual Studio\SQL Clone PoC for Test\SQL Clone PoC for Test\obj\Debug\SQL Clone PoC for Test.pdb
+C:\Dev\Visual Studio\SQL Clone PoC for Test\SQL-Clone-PoC-for-API\SQL Clone PoC for Test\bin\Debug\SQL Clone PoC for Test.exe.config
+C:\Dev\Visual Studio\SQL Clone PoC for Test\SQL-Clone-PoC-for-API\SQL Clone PoC for Test\bin\Debug\SQL Clone PoC for Test.exe
+C:\Dev\Visual Studio\SQL Clone PoC for Test\SQL-Clone-PoC-for-API\SQL Clone PoC for Test\bin\Debug\SQL Clone PoC for Test.pdb
+C:\Dev\Visual Studio\SQL Clone PoC for Test\SQL-Clone-PoC-for-API\SQL Clone PoC for Test\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\Visual Studio\SQL Clone PoC for Test\SQL-Clone-PoC-for-API\SQL Clone PoC for Test\bin\Debug\RedGate.SqlClone.Api.dll
+C:\Dev\Visual Studio\SQL Clone PoC for Test\SQL-Clone-PoC-for-API\SQL Clone PoC for Test\bin\Debug\RedGate.SqlClone.Client.Api.dll
+C:\Dev\Visual Studio\SQL Clone PoC for Test\SQL-Clone-PoC-for-API\SQL Clone PoC for Test\bin\Debug\RedGate.SqlClone.Common.dll
+C:\Dev\Visual Studio\SQL Clone PoC for Test\SQL-Clone-PoC-for-API\SQL Clone PoC for Test\bin\Debug\RedGate.SqlClone.Http.ClientModels.dll
+C:\Dev\Visual Studio\SQL Clone PoC for Test\SQL-Clone-PoC-for-API\SQL Clone PoC for Test\bin\Debug\RedGate.SqlClone.Http.Model.dll
+C:\Dev\Visual Studio\SQL Clone PoC for Test\SQL-Clone-PoC-for-API\SQL Clone PoC for Test\bin\Debug\RedGate.SqlClone.Serialization.dll
+C:\Dev\Visual Studio\SQL Clone PoC for Test\SQL-Clone-PoC-for-API\SQL Clone PoC for Test\bin\Debug\System.Net.Http.Formatting.dll
+C:\Dev\Visual Studio\SQL Clone PoC for Test\SQL-Clone-PoC-for-API\SQL Clone PoC for Test\bin\Debug\Newtonsoft.Json.xml
+C:\Dev\Visual Studio\SQL Clone PoC for Test\SQL-Clone-PoC-for-API\SQL Clone PoC for Test\bin\Debug\System.Net.Http.Formatting.xml
+C:\Dev\Visual Studio\SQL Clone PoC for Test\SQL-Clone-PoC-for-API\SQL Clone PoC for Test\obj\Debug\SQL Clone PoC for Test.csprojResolveAssemblyReference.cache
+C:\Dev\Visual Studio\SQL Clone PoC for Test\SQL-Clone-PoC-for-API\SQL Clone PoC for Test\obj\Debug\SQL Clone PoC for Test.exe
+C:\Dev\Visual Studio\SQL Clone PoC for Test\SQL-Clone-PoC-for-API\SQL Clone PoC for Test\obj\Debug\SQL Clone PoC for Test.pdb

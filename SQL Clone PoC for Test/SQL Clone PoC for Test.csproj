@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D370F204-9040-423B-A35D-8CDA1F8C7A5A}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SQL_Clone_PoC_for_Test</RootNamespace>
+    <AssemblyName>SQL Clone PoC for Test</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=8.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.8.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="RedGate.SqlClone.Api, Version=1.0.3.4857, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\RedGate.SqlClone.Client.Api.1.0.3.4857\lib\RedGate.SqlClone.Api.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="RedGate.SqlClone.Client.Api, Version=1.0.3.4857, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\RedGate.SqlClone.Client.Api.1.0.3.4857\lib\RedGate.SqlClone.Client.Api.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="RedGate.SqlClone.Common, Version=1.0.3.4857, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\RedGate.SqlClone.Client.Api.1.0.3.4857\lib\RedGate.SqlClone.Common.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="RedGate.SqlClone.Http.ClientModels, Version=1.0.3.4857, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\RedGate.SqlClone.Client.Api.1.0.3.4857\lib\RedGate.SqlClone.Http.ClientModels.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="RedGate.SqlClone.Http.Model, Version=1.0.3.4857, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\RedGate.SqlClone.Client.Api.1.0.3.4857\lib\RedGate.SqlClone.Http.Model.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="RedGate.SqlClone.Serialization, Version=1.0.3.4857, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\RedGate.SqlClone.Client.Api.1.0.3.4857\lib\RedGate.SqlClone.Serialization.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net.Http.Formatting, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Client.5.2.3\lib\net45\System.Net.Http.Formatting.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
